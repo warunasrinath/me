@@ -12,8 +12,8 @@
   NSBM Green University
 
 ## ☏ Contact information
-Outlook email: waruna12345@outlook.com
-Direct message: https://www.linkedin.com/in/waruna-srinath/
+- Outlook email: waruna12345@outlook.com
+- Direct message: https://www.linkedin.com/in/waruna-srinath/
 
 ## Work Experience
 **Machine Learning Engineer @ Easyfortech R&D (_July 2022 - Present_)**
