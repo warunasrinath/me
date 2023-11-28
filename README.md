@@ -11,6 +11,10 @@
   Department of Information and Systems Sciences | 2019 - 2023
   NSBM Green University
 
+## ☏ Contact information
+Outlook email: waruna12345@outlook.com
+Direct message: https://www.linkedin.com/in/waruna-srinath/
+
 ## Work Experience
 **Machine Learning Engineer @ Easyfortech R&D (_July 2022 - Present_)**
 -- Segmentation of customer details based on shopping transactions.
@@ -39,7 +43,8 @@ points, eliminating the need for manual adjustment of the light.
 ## 🌟 PROFESSIONAL SUMMARY:
 With over 2 years of hands-on experience, I am an accomplished Machine Learning Engineer dedicated to pioneering breakthroughs in Data Science. My expertise extends across cutting-edge statistical machine learning solutions, spanning applications such as Computer Vision and Natural Language Processing. I am particularly focused on the dynamic realms of Medical AI and Chemical AI, where innovation meets real-world impact.
 
-## 💼 Machine Learning Engineer: Elevate Insights, Drive Collaboration
+## 💼 Machine Learning Engineer: 
+## Elevate Insights, Drive Collaboration
 Embark on a data-driven journey with me: – a seasoned ML Engineer adept at algorithm fine-tuning and impactful data visualization. Thriving in collaborative environments, I excel in data collection, web scraping, and intricate analysis. Recognizing the significance of feature scaling, I bring strategic depth to model development.
 
 My best priority is ensuring the creation of the most accurate, optimized, scalable, and secure ML models, ready for industry-level release. With a commitment to precision, collaboration, and delivering impactful results, join me in unlocking the full potential of data science. Let's set new standards for accuracy and excellence in the industry together. 🚀
