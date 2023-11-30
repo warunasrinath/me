@@ -1,4 +1,4 @@
-# Machine Learning Engineer 
+# Machine Learning Engineer 👨‍🎓
 
 #### 🚀 Innovative Machine Learning Engineer | Passionate about Data Science, Medical AI, and Chemical AI | LLM | Computer vision 🌐
 
@@ -18,7 +18,7 @@ With over 2 years of hands-on experience, I am an accomplished Machine Learning 
 - Outlook email: waruna12345@outlook.com
 - Direct message: https://www.linkedin.com/in/waruna-srinath/
 
-## Work Experience
+## Work Experience 💻
 **Machine Learning Engineer @ Easyfortech R&D (_July 2022 - Present_)**
 -- Segmentation of customer details based on shopping transactions.
 
@@ -39,8 +39,8 @@ points, eliminating the need for manual adjustment of the light.
 
 ![Machine Learning Waruna Srinath](https://github.com/warunasrinath/me/assets/56961480/385ee23c-3607-448b-b996-2991199845fd)
 
-## 🌐 PROFESSIONAL EXPERIENCE:
-
+## 🌐 PROFESSIONAL PROJECTS EXPERIENCE:
+  
 1. Segmentation of Customer Details Based on Shopping Transactions
 2. Creation of an AI Model for Evaluating Website Aesthetics
 3. Automation of Camera Light for Jetson Nano Robots in Surgical Procedures
@@ -50,6 +50,7 @@ points, eliminating the need for manual adjustment of the light.
 7. Q & A LLM system for common diseases [On going](waiting)
 
 ## 💼 Machine Learning Engineer: 
+
 Embark on a data-driven journey with me: – a seasoned ML Engineer adept at algorithm fine-tuning and impactful data visualization. Thriving in collaborative environments, I excel in data collection, web scraping, and intricate analysis. Recognizing the significance of feature scaling, I bring strategic depth to model development.
 
 My best priority is ensuring the creation of the most accurate, optimized, scalable, and secure ML models, ready for industry-level release. With a commitment to precision, collaboration, and delivering impactful results, join me in unlocking the full potential of data science. Let's set new standards for accuracy and excellence in the industry together. 🚀
@@ -61,7 +62,17 @@ My best priority is ensuring the creation of the most accurate, optimized, scala
 3. Statistics/ML: Statistic Analysis, Linear/Logistic Regression, Clustering, Graph Theory, DMPNN
 4. Tools: Anaconda Navigator, Jupyter Notebook, VS Code, Spyder, Hadoop, MapReduce, Apache Spark
 5. Database & Cloud: Microsoft SQL, MySQL, Oracle, PostgreSQL, AWS, Heroku
-   
+
+## 🥇 Machine Learning Certifications 
+
+- Machine Learning Foundations Calculus
+Provider: LinkedIn Learning
+
+- TensorFlow: Neural Networks and Working with Tables
+Provider: LinkedIn Learning
+
+- Statistics Foundations 4: Advanced Topics
+Provider: LinkedIn Learning
 
 ![artificial intelligence](https://github.com/warunasrinath/me/assets/56961480/1acd7815-b428-4c8f-ad4b-0ded52553517)
 
