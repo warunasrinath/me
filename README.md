@@ -74,13 +74,13 @@ My best priority is ensuring the creation of the most accurate, optimized, scala
 
 ## 🥇 Machine Learning Certifications 
 
-**Machine Learning Foundations Calculus
+- Machine Learning Foundations Calculus
 Provider: LinkedIn Learning
 
-**TensorFlow: Neural Networks and Working with Tables
+- TensorFlow: Neural Networks and Working with Tables
 Provider: LinkedIn Learning
 
-**Statistics Foundations 4: Advanced Topics
+- Statistics Foundations 4: Advanced Topics
 Provider: LinkedIn Learning
 
 ![artificial intelligence](https://github.com/warunasrinath/me/assets/56961480/1acd7815-b428-4c8f-ad4b-0ded52553517)
