@@ -39,13 +39,12 @@ points, eliminating the need for manual adjustment of the light.
 
 ![Machine Learning Waruna Srinath](https://github.com/warunasrinath/me/assets/56961480/385ee23c-3607-448b-b996-2991199845fd)
 
-**Final Year Research**
+**Final Year Research 👨🏻‍💻 and Thesis 🧾**
 - A Model that can predict the infection probability level of gastritis
   
-Data Cleaning and Feature Engineering:- Conducted data cleaning and feature engineering on the NLM
-dataset to enhance data quality.
-Utilized the Random Forest algorithm to develop a data-driven healthcare model for gastritis risk
-assessment, integrating it with Docker Container, GitHub, and Heroku Cloud Deployment
+Data Cleaning and Feature Engineering:- Conducted data cleaning and feature engineering steps using the dataset from the "National Library of Medicine"
+to enhance the quality of data. 
+Then utilized the Random Forest algorithm to develop a data-driven healthcare model for gastritis risk assessment, integrating it with Docker Container, GitHub, and Heroku Cloud Deployment.
 
 ## 🌐 PROFESSIONAL PROJECTS EXPERIENCE:
   
