@@ -28,7 +28,7 @@ outliers.
 - Utilized the obtained customer segmentation to derive meaningful insights and tailor marketing strategies,
 promotions, and other business decisions to each customer segment based on their transaction behaviors
 
-**Machine Learning intern @ Emmanuel's Lanka (Pvt) LTD  (Jan 2022 -June 2022)**
+**Machine Learning intern @ Emmanuel's Lanka (Pvt) LTD  (_Jan 2022 -June 2022_)**
 -- Contributed to the project focused on automating the camera light of Jetson Nano robots
 for surgical procedures in the operation theatre.
 
@@ -39,12 +39,20 @@ points, eliminating the need for manual adjustment of the light.
 
 ![Machine Learning Waruna Srinath](https://github.com/warunasrinath/me/assets/56961480/385ee23c-3607-448b-b996-2991199845fd)
 
+**Final Year Research**
+- A Model that can predict the infection probability level of gastritis
+  
+Data Cleaning and Feature Engineering:- Conducted data cleaning and feature engineering on the NLM
+dataset to enhance data quality.
+Utilized the Random Forest algorithm to develop a data-driven healthcare model for gastritis risk
+assessment, integrating it with Docker Container, GitHub, and Heroku Cloud Deployment
+
 ## 🌐 PROFESSIONAL PROJECTS EXPERIENCE:
   
-1. Segmentation of Customer Details Based on Shopping Transactions
-2. Creation of an AI Model for Evaluating Website Aesthetics
-3. Automation of Camera Light for Jetson Nano Robots in Surgical Procedures
-4. Model for Predicting Gastritis Infection Probability
+1. Creation of an ML Model for Evaluating Website Aesthetics
+2. Automation of Camera Light for Jetson Nano Robots in Surgical Procedures
+3. Segmentation of Customer Details Based on Shopping Transactions
+4. Model for Predicting Gastritis Infection Probability 
 5. Neural Network Models for Molecular Property Prediction in Cheminformatics
 6. Automated Content Summarization and Keyword Extraction for News Aggregation
 7. Q & A LLM system for common diseases [On going](waiting)
