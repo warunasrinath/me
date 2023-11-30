@@ -83,14 +83,9 @@ Provider: LinkedIn Learning
 - Statistics Foundations 4: Advanced Topics
 Provider: LinkedIn Learning
 
-![artificial intelligence](https://github.com/warunasrinath/me/assets/56961480/1acd7815-b428-4c8f-ad4b-0ded52553517)
+![artificial General intelligence](https://github.com/warunasrinath/me/assets/56961480/b00d304d-85a8-4d31-9b7c-7aead5801956)
 
 ![Generative AI Projects are loading](/assets/img/artificial intelligence.jpeg)
-
-
-
-
-
 
 
 
