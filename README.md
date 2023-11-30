@@ -46,6 +46,8 @@ Data Cleaning and Feature Engineering:- Conducted data cleaning and feature engi
 to enhance the quality of data. 
 Then utilized the Random Forest algorithm to develop a data-driven healthcare model for gastritis risk assessment, integrating it with Docker Container, GitHub, and Heroku Cloud Deployment.
 
+![Model Rich picture](https://github.com/warunasrinath/me/assets/56961480/c7d6ce06-90bc-4ad4-8c7d-80b14c8dffa8)
+
 ## 🌐 PROFESSIONAL PROJECTS EXPERIENCE:
   
 1. Creation of an ML Model for Evaluating Website Aesthetics
@@ -72,13 +74,13 @@ My best priority is ensuring the creation of the most accurate, optimized, scala
 
 ## 🥇 Machine Learning Certifications 
 
-- Machine Learning Foundations Calculus
+**Machine Learning Foundations Calculus
 Provider: LinkedIn Learning
 
-- TensorFlow: Neural Networks and Working with Tables
+**TensorFlow: Neural Networks and Working with Tables
 Provider: LinkedIn Learning
 
-- Statistics Foundations 4: Advanced Topics
+**Statistics Foundations 4: Advanced Topics
 Provider: LinkedIn Learning
 
 ![artificial intelligence](https://github.com/warunasrinath/me/assets/56961480/1acd7815-b428-4c8f-ad4b-0ded52553517)
