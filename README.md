@@ -6,11 +6,11 @@
 With over 2 years of hands-on experience, I am an accomplished Machine Learning Engineer dedicated to pioneering breakthroughs in Data Science. My expertise extends across cutting-edge Statistical Machine Learning solutions, predictive Modelling, and spanning applications such as Computer Vision and Natural Language Processing. I am particularly focused on the dynamic realms of Medical AI and Chemical AI, where innovation meets real-world impact.
 
 ## 🎓 Education
-- MSc in Computer Science and Technology (Eligible), 
-  School of Computer Science and Artificial Intelligence,
-  WUHAN Science and Engineering University	 
+- 𝐌𝐒𝐜 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐀𝐈 (Reading), 
+  Faculty of Applied Sciences,
+  University of Sri Jayewardenepura 
 
-- Bachelor of Science in Management Information Systems (Specialization in Data Science),
+- 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫 𝐨𝐟 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 (𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞),
   Department of Information and Systems Sciences | 2019 - 2023,
   NSBM Green University
 
