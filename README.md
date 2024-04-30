@@ -14,14 +14,16 @@ With over 2 years of hands-on experience, I am an accomplished Machine Learning 
   Department of Information and Systems Sciences | 2019 - 2023,
   NSBM Green University
 
-## ☏ Contact information
+## ☏ Contact information 🚨
 - Outlook email: waruna12345@outlook.com
-- Direct message: https://www.linkedin.com/in/waruna-srinath/
+- Direct message 💬: https://www.linkedin.com/in/waruna-srinath/
 
 ## Work Experience 💻
 
-🔴**AI Research & Development at IFS(_Jan 2024 - Present_)**
-
+🔴**AI Research & Development at IFS (_Jan 2024 - Present_)**
+- LLM model fine-tuning.
+- Automation of QA tasks using AI and Scripting.
+  
 🔴**Machine Learning Engineer @ Easyfortech R&D (_July 2022 - Dec 2023_)**
 -- Segmentation of customer details based on shopping transactions.
 
@@ -69,7 +71,7 @@ My best priority is ensuring the creation of the most accurate, optimized, scala
 
 ## 🛠️ TECHNICAL SKILLS:
 
-1. Languages & Web Frameworks: Python, Flask, J2EE
+1. Languages & Web Frameworks: Python, Java, Flask, J2EE
 2. ML Lib: Numpy, Pandas, Scipy, Scikit-Learn, TensorFlow, PyTorch, Keras, NLTK, Matplotlib, Seaborn
 3. Statistics/ML: Statistic Analysis, Linear/Logistic Regression, Clustering, Graph Theory, DMPNN
 4. Tools: Anaconda Navigator, Jupyter Notebook, VS Code, Spyder, Hadoop, MapReduce, Apache Spark
