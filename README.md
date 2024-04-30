@@ -19,7 +19,10 @@ With over 2 years of hands-on experience, I am an accomplished Machine Learning 
 - Direct message: https://www.linkedin.com/in/waruna-srinath/
 
 ## Work Experience 💻
-**Machine Learning Engineer @ Easyfortech R&D (_July 2022 - Present_)**
+
+🔴**AI Research & Development at IFS(_Jan 2024 - Present_)**
+
+🔴**Machine Learning Engineer @ Easyfortech R&D (_July 2022 - Dec 2023_)**
 -- Segmentation of customer details based on shopping transactions.
 
 - Collected customer transaction data, performed data cleaning to handle missing values, and checked for
@@ -28,7 +31,7 @@ outliers.
 - Utilized the obtained customer segmentation to derive meaningful insights and tailor marketing strategies,
 promotions, and other business decisions to each customer segment based on their transaction behaviors
 
-**Machine Learning intern @ Emmanuel's Lanka (Pvt) LTD  (_Jan 2022 -June 2022_)**
+🔴**Machine Learning intern @ Emmanuel's Lanka (Pvt) LTD  (_Jan 2022 -June 2022_)**
 -- Contributed to the project focused on automating the camera light of Jetson Nano robots
 for surgical procedures in the operation theatre.
 
