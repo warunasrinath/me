@@ -1,9 +1,11 @@
 # Machine Learning Engineer 👨‍🎓
 
-#### 🚀 Innovative Machine Learning Engineer | Passionate about Data Science, Medical AI, and Chemical AI | LLM | Computer vision 🌐
+#### 🚀 Innovative Machine Learning Engineer | Passionate about Data Science, Medical AI and Financial AI | LLM | Computer vision 🌐
+
+## ❗❗❗ Why Me? : All the needs in one profile:- Initiating "Feasibility Analysis" with "Business Intelligence" and completing top-tier "AI solutions". 
 
 ## 🌟 PROFESSIONAL SUMMARY:
-With over 3 years of hands-on experience, I am an accomplished Machine Learning Engineer dedicated to pioneering breakthroughs in Data Science. My expertise extends across cutting-edge Statistical Machine Learning solutions, predictive Modelling, and spanning applications such as Computer Vision and Natural Language Processing. I am particularly focused on the dynamic realms of Medical AI and Chemical AI, where innovation meets real-world impact.
+With over 3 years of hands-on experience, I am an accomplished Machine Learning Engineer dedicated to pioneering breakthroughs in Data Science. My expertise extends across cutting-edge Statistical Machine Learning solutions, predictive Modelling, and spanning applications such as Computer Vision and Natural Language Processing. I am particularly focused on the dynamic realms of Medical AI and Financial AI, where innovation meets real-world impact.
 
 ## 🎓 Education
 - 𝐌𝐒𝐜 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐀𝐈 (Reading), 
