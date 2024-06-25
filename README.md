@@ -2,7 +2,8 @@
 
 #### 🚀 Innovative Machine Learning Engineer | Passionate about Data Science, Medical AI and Financial AI | LLM | Computer vision 🌐
 
-## ❗❗❗ Why Me? :- Initiating "Feasibility Analysis" with "Business Intelligence" and completing top-tier "AI solutions", in one profile.
+## ❗❗❗ Why Me? :- 
+Initiating "Feasibility Analysis" with "Business Intelligence" and completing top-tier "AI solutions", in one profile.
 
 ## 🌟 PROFESSIONAL SUMMARY:
 With over 3 years of hands-on experience, I am an accomplished Machine Learning Engineer dedicated to pioneering breakthroughs in Data Science. My expertise extends across cutting-edge Statistical Machine Learning solutions, predictive Modelling, and spanning applications such as Computer Vision and Natural Language Processing. I am particularly focused on the dynamic realms of Medical AI and Financial AI, where innovation meets real-world impact.
