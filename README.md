@@ -23,11 +23,11 @@ With over 3 years of hands-on experience, I am an accomplished Machine Learning 
 
 ## Work Experience 💻
 
-🔴**AI Research & Development at IFS (_Jan 2024 - Present_)**
+🔴**AI Research & Development at IFS (_Jan 2024 - Sep 2024_)**
 - LLM model fine-tuning.
 - Automation of QA tasks using AI and Scripting.
   
-🔴**Machine Learning Engineer @ Easyfortech R&D (_July 2022 - Dec 2023_)**
+🔴**Machine Learning Engineer @ Easyfortech R&D (_July 2022 - Present_)**
 -- Segmentation of customer details based on shopping transactions.
 
 - Collected customer transaction data, performed data cleaning to handle missing values, and checked for
