@@ -1,6 +1,6 @@
-# Machine Learning Engineer 👨‍🎓
+# AI Research & Development Engineer 👨‍🎓
 
-#### 🚀 Innovative Machine Learning Engineer | Passionate about Data Science, Medical AI and Financial AI | LLM | Computer vision 🌐
+#### 🚀 Innovative Machine Learning Engineer | Passionate about Data Science, Financial AI and Medical AI | LLM | Computer vision 🌐
 
 ## ❗❗❗ Why Me? :- 
 Initiating "Feasibility Analysis" with "Business Intelligence" and completing top-tier "AI solutions", in one profile.
@@ -24,7 +24,7 @@ With over 3 years of hands-on experience, I am an accomplished Machine Learning 
 ## Work Experience 💻
 
 🔴**AI Research & Development at IFS (_Jan 2024 - Sep 2024_)**
-- LLM model fine-tuning.
+- LLM model fine-tuning, RAG based task
 - Automation of QA tasks using AI and Scripting.
   
 🔴**Machine Learning Engineer @ Easyfortech R&D (_July 2022 - Present_)**
