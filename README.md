@@ -1,12 +1,13 @@
-# AI Research & Development Engineer 👨‍🎓
+# AI R&D Engineer | Data Scientist | Innovating with AI & Data 👨‍🎓
 
-#### 🚀 Innovative Machine Learning Engineer | Passionate about Data Science, Financial AI and Medical AI | LLM | Computer vision 🌐
+#### 🚀  Machine Learning Engineer | NLP | LLM | Passionate about Data Analysis, Financial AI and Medical AI | Computer vision 🌐
 
 ## ❗❗❗ Why Me? :- 
-Initiating "Feasibility Analysis" with "Business Intelligence" and completing top-tier "AI solutions", in one profile.
+Bridging the gap between Feasibility Analysis 🧐, Business Intelligence 📊, and cutting-edge AI solutions 🤖—all in one profile.
+I specialize in transforming raw data 📈 into actionable insights 💡, ensuring business-driven AI solutions 🚀 that are both innovative and scalable.
 
 ## 🌟 PROFESSIONAL SUMMARY:
-With over 3 years of hands-on experience, I am an accomplished Machine Learning Engineer dedicated to pioneering breakthroughs in Data Science. My expertise extends across cutting-edge Statistical Machine Learning solutions, predictive Modelling, and spanning applications such as Computer Vision and Natural Language Processing. I am particularly focused on the dynamic realms of Medical AI and Financial AI, where innovation meets real-world impact.
+With over 3 years of hands-on experience, I am an AI R&D Engineer & Data Scientist dedicated to pioneering breakthroughs in AI & Data Science. My expertise extends across cutting-edge statistical Machine Learning solutions, predictive modeling, and applications based on Large Language Models and computer vision. I am particularly focused on the dynamic realms of Medical AI and Financial AI, where innovation meets real-world impact.
 
 ## 🎓 Education
 - 𝐌𝐒𝐜 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐀𝐈 (Reading), 
@@ -24,10 +25,10 @@ With over 3 years of hands-on experience, I am an accomplished Machine Learning 
 ## Work Experience 💻
 
 🔴**AI Research & Development at IFS (_Jan 2024 - Sep 2024_)**
-- LLM model fine-tuning, RAG based task
+- LLM model fine-tuning, RAG-based task
 - Automation of QA tasks using AI and Scripting.
   
-🔴**Machine Learning Engineer @ Easyfortech R&D (_July 2022 - Present_)**
+🔴**AI R&D and Data Science @ Easyfortech R&D (_July 2022 - Present_)**
 -- Segmentation of customer details based on shopping transactions.
 
 - Collected customer transaction data, performed data cleaning to handle missing values, and checked for
