@@ -1,9 +1,9 @@
 # AI R&D Engineer | Data Scientist | Innovating with AI & Data 👨‍🎓
 
-#### 🚀  Machine Learning Engineer | NLP | LLM | Passionate about Data Analysis, Financial AI and Medical AI | Computer vision 🌐
+#### 🚀  Machine Learning | NLP | LLM | BIG DATA | Data Analysis & Visualization | Database & Cloud (AWS, Azure) |  Computer vision | Financial Ai and Medical Ai 🌐
 
 ## ❗❗❗ Why Me? :- 
-Bridging the gap between Feasibility Analysis 🧐, Business Intelligence 📊, and cutting-edge AI solutions 🤖—all in one profile.
+Bridging the gap between **Feasibility Analysis** 🧐, **Business Intelligence** 📊, and cutting-edge **AI solutions** **🤖—all in one profile.**
 I specialize in transforming raw data 📈 into actionable insights 💡, ensuring business-driven AI solutions 🚀 that are both innovative and scalable.
 
 ## 🌟 PROFESSIONAL SUMMARY:
