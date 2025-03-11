@@ -26,7 +26,7 @@ With over 3 years of hands-on experience, I am an AI R&D Engineer & Data Scienti
 
 🔴**Machine Learning Engineer at Easyfortech R&D (_July 2022 - Present_)**
 
---RAG-Based systems: A Comparative Analysis of Vector and Graph Databases
+RAG-Based systems: A Comparative Analysis of Vector and Graph Databases
 
 -  Conducted an in-depth comparative analysis of Vector (FAISS) and Graph
  Databases (Neo4j) for RAG systems.
@@ -34,7 +34,7 @@ With over 3 years of hands-on experience, I am an AI R&D Engineer & Data Scienti
  GPT-4 Turbo for knowledge grounded LLM responses, and designed ML-driven
  performance metrics and evaluation metrics for benchmarking
 
---Market Insight Analyzer Tool Using Website Articles
+Market Insight Analyzer Tool Using Website Articles
 
 - Integrated LangChain's UnstructuredURL Loader to process and extract
  content from website articles.
