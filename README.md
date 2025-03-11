@@ -24,19 +24,26 @@ With over 3 years of hands-on experience, I am an AI R&D Engineer & Data Scienti
 
 ## Work Experience 💻
 
+🔴**Machine Learning Engineer at Easyfortech R&D (_July 2022 - Present_)**
+-- RAG-Based systems: A Comparative Analysis of Vector and Graph Databases
+
+-  Conducted an in-depth comparative analysis of Vector (FAISS) and Graph
+ Databases (Neo4j) for RAG systems.
+- Implemented custom retrieval pipelines integrating OpenAI embeddings and
+ GPT-4 Turbo for knowledge grounded LLM responses, and designed ML-driven
+ performance metrics and evaluation metrics for benchmarking
+
+-- Market Insight Analyzer Tool Using Website Articles
+
+- Integrated LangChain's UnstructuredURL Loader to process and extract
+ content from website articles.
+- Constructed embedding vectors using OpenAI embeddings and implemented
+ FAISS for efficient similarity search and retrieval of relevant insights.
+
 🔴**AI Research & Development at IFS (_Jan 2024 - Sep 2024_)**
 - LLM model fine-tuning, RAG-based task
 - Automation of QA tasks using AI and Scripting.
   
-🔴**AI R&D and Data Science @ Easyfortech R&D (_July 2022 - Present_)**
--- Segmentation of customer details based on shopping transactions.
-
-- Collected customer transaction data, performed data cleaning to handle missing values, and checked for
-outliers.
-- Conducted feature selection and feature scaling as a crucial preprocessing step before implementing KMeans clustering.
-- Utilized the obtained customer segmentation to derive meaningful insights and tailor marketing strategies,
-promotions, and other business decisions to each customer segment based on their transaction behaviors
-
 🔴**Machine Learning intern @ Emmanuel's Lanka (Pvt) LTD  (_Jan 2022 -June 2022_)**
 -- Contributed to the project focused on automating the camera light of Jetson Nano robots
 for surgical procedures in the operation theatre.
