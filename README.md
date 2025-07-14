@@ -19,12 +19,12 @@ With over 3 years of hands-on experience, I am an AI R&D Engineer & Data Scienti
   NSBM Green University
 
 ## ☏ Contact information 🚨
-- Outlook email: waruna12345@outlook.com
+- 📞 Chat on WhatsApp: https://wa.me/94787073586
 - Direct message 💬: https://www.linkedin.com/in/waruna-srinath/
 
 ## Work Experience 💻
 
-🔴**Machine Learning Engineer at Easyfortech R&D (_July 2022 - Present_)**
+🔴**AI Research & Development Engineer at Easyfortech R&D (_Oct 2024 - Present_)**
 
 RAG-Based systems: A Comparative Analysis of Vector and Graph Databases
 
