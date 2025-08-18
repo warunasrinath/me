@@ -2,7 +2,7 @@
 
 #### 🚀  Machine Learning | NLP | LLM | BIG DATA | Data Analysis & Visualization | Database & Cloud (AWS, Azure) | Statistics 🌐
 
-## ❗❗❗ Why Me? :- 
+## 🚨 How I Add Value? :- 
 Bridging the gap between **Feasibility Analysis** 🧐, **Business Intelligence** 📊, and cutting-edge **AI solutions** **🤖—all in one profile.**
 I specialize in transforming raw data 📈 into actionable insights 💡, ensuring business-driven AI solutions 🚀 that are both innovative and scalable.
 
@@ -18,7 +18,7 @@ With over 3 years of hands-on experience, I am an AI R&D Engineer & Data Scienti
   Department of Information and Systems Sciences | 2019 - 2023,
   NSBM Green University
 
-## ☏ Contact information 🚨
+## ☏ Contact information 
 - 📞 Chat on WhatsApp: https://wa.me/94787073586
 - Direct message 💬: https://www.linkedin.com/in/waruna-srinath/
 
