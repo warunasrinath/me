@@ -1,80 +1,107 @@
-# Machine Learning Engineer 
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm an AI R&D Engineer & Data Scientist</h1>
+<h3 align="center">🚀 Innovating with AI & Data</h3>
 
-#### 🚀 Innovative Machine Learning Engineer | Passionate about Data Science, Medical AI, and Chemical AI | LLM | Computer vision 🌐
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+
+---
+
+## 💡 How I Add Value ?
+I bridge the gap between **Feasibility Analysis** 🧐, **Business Intelligence** 📊, and **Cutting-edge AI Solutions** 🤖.  
+By transforming raw data 📈 into **actionable insights 💡**, I deliver AI solutions that are **business-driven, scalable, and innovative**.
+
+---
+
+## 🌟 Professional Summary
+With **3+ years of experience**, I am an **AI R&D Engineer & Data Scientist** focused on **Machine Learning, LLMs, Predictive Analytics, and Cloud Solutions**.  
+I am passionate about **Financial AI** and **Medical AI**, where technology meets real-world impact.
+
+---
 
 ## 🎓 Education
-- MSc in Computer Science and Technology (Eligibled)
-  School of Computer Science and Artificial Intelligence
-  WUHAN Science and Engineering University	 
+- 🎓 **MSc in Data Science & AI (Reading)** — *University of Sri Jayewardenepura*  
+- 🎓 **BSc (Hons) in Management Information Systems (Specialization in Data Science)** — *NSBM Green University (2019–2023)*
 
-- Bachelor of Science in Management Information Systems (Specialization in Data Science)
-  Department of Information and Systems Sciences | 2019 - 2023
-  NSBM Green University
+---
 
-## ☏ Contact information
-- Outlook email: waruna12345@outlook.com
-- Direct message: https://www.linkedin.com/in/waruna-srinath/
+## 💻 Work Experience
 
-## Work Experience
-**Machine Learning Engineer @ Easyfortech R&D (_July 2022 - Present_)**
--- Segmentation of customer details based on shopping transactions.
+### 🔴 AI R&D Engineer — *Easyfortech R&D* (Oct 2024 – Present)
+- Conducted **RAG-based system research**: Vector DB (FAISS) vs Graph DB (Neo4j).  
+- Developed **custom retrieval pipelines** with OpenAI embeddings + GPT-4 Turbo.  
+- Built **ML-driven performance metrics** for benchmarking.  
+- Developed **Market Insight Analyzer Tool** using LangChain, FAISS & OpenAI embeddings.  
 
-- Collected customer transaction data, performed data cleaning to handle missing values, and checked for
-outliers.
-- Conducted feature selection and feature scaling as a crucial preprocessing step before implementing KMeans clustering.
-- Utilized the obtained customer segmentation to derive meaningful insights and tailor marketing strategies,
-promotions, and other business decisions to each customer segment based on their transaction behaviors
+### 🔴 AI R&D Engineer — *IFS* (Jan 2024 – Sep 2024)
+- Fine-tuned **LLMs** and built **RAG pipelines**.  
+- Automated **QA tasks** using AI and scripting.  
 
+### 🔴 ML Intern — *Emmanuel's Lanka (Pvt) Ltd* (Jan 2022 – Jun 2022)
+- Developed **automated camera light control system** with Jetson Nano robots for surgeries.  
+- Worked with **mechanical, electronics & computer vision engineers**.  
+- Automated detection of **surgical points**, reducing manual adjustments.
 
-**Machine Learning intern @ Emmanuel's Lanka (Pvt) LTD  (Jan 2022 -June 2022)**
--- Contributed to the project focused on automating the camera light of Jetson Nano robots
-for surgical procedures in the operation theatre.
-- Collaborated with multidisciplinary teams of mechanical engineers, electronics engineers, and computer
-vision engineers to develop a project initiated by a senior consultant.
-- Project goal: Designed an automated camera light system to facilitate the automatic detection of surgical
-points, eliminating the need for manual adjustment of the light.
-![Computer Vision](/assets/img/Machine Learning Waruna Srinath.jpeg)
+---
 
+## 🌐 Projects Portfolio
+- ✅ **ML Model for Website Aesthetic Evaluation**  
+- ✅ **Automated Camera Light for Jetson Nano Surgical Robots**  
+- ✅ **Customer Segmentation from Shopping Transactions**  
+- ✅ **Predictive Model for Gastritis Infection Probability**  
+- ✅ **Neural Networks for Molecular Property Prediction (Cheminformatics)**  
+- ✅ **Automated Content Summarization & Keyword Extraction**  
+- 🔄 **Q&A LLM System for Common Diseases** *(ongoing)*
 
-## Projects
-### Q & A LLM system for common diseases
-[Publication](wait)
+---
 
-## 🌟 PROFESSIONAL SUMMARY:
-With over 2 years of hands-on experience, I am an accomplished Machine Learning Engineer dedicated to pioneering breakthroughs in Data Science. My expertise extends across cutting-edge statistical machine learning solutions, spanning applications such as Computer Vision and Natural Language Processing. I am particularly focused on the dynamic realms of Medical AI and Chemical AI, where innovation meets real-world impact.
+## 🛠️ Tech Stack
 
-## 💼 Machine Learning Engineer: 
-## Elevate Insights, Drive Collaboration
-Embark on a data-driven journey with me: – a seasoned ML Engineer adept at algorithm fine-tuning and impactful data visualization. Thriving in collaborative environments, I excel in data collection, web scraping, and intricate analysis. Recognizing the significance of feature scaling, I bring strategic depth to model development.
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
 
-My best priority is ensuring the creation of the most accurate, optimized, scalable, and secure ML models, ready for industry-level release. With a commitment to precision, collaboration, and delivering impactful results, join me in unlocking the full potential of data science. Let's set new standards for accuracy and excellence in the industry together. 🚀
+**ML & Data Science Libraries**  
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
-## 🛠️ TECHNICAL SKILLS:
-Languages & Web Frameworks: Python, Flask, J2EE
-ML Lib: Numpy, Pandas, Scipy, Scikit-Learn, TensorFlow, PyTorch, Keras, NLTK, Matplotlib, Seaborn
-Statistics/ML: Statistic Analysis, Linear/Logistic Regression, Clustering, Graph Theory, DMPNN
-Tools: Anaconda Navigator, Jupyter Notebook, VS Code, Spyder, Hadoop, MapReduce, Apache Spark
-Database & Cloud: Microsoft SQL, MySQL, Oracle, PostgreSQL, AWS, Heroku
+**Cloud & Databases**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-## 🌐 PROFESSIONAL EXPERIENCE: Projects
+**Tools**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black)  
+![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
 
-1. Segmentation of Customer Details Based on Shopping Transactions
-2. Creation of an AI Model for Evaluating Website Aesthetics
-3. Automation of Camera Light for Jetson Nano Robots in Surgical Procedures
-4. Model for Predicting Gastritis Infection Probability
-5. Neural Network Models for Molecular Property Prediction in Cheminformatics
-6. Automated Content Summarization and Keyword Extraction for News Aggregation
+---
 
+## 🏆 Certifications
+- 🎖 **Advanced Statistics and Data Mining for Data Science** — *Packt*
+- 🎖 **Machine Learning In The Cloud With Azure Machine Learning** — *Packt*
+- 🎖 **IFS Cloud Release Overview**  
+- 🎖 **Machine Learning Foundations: Calculus** — *LinkedIn Learning*  
+- 🎖 **TensorFlow: Neural Networks & Working with Tables** — *LinkedIn Learning*  
+- 🎖 **Statistics Foundations 4: Advanced Topics** — *LinkedIn Learning* 
 
+---
 
-![Generative AI Projects are loading](/assets/img/artificial intelligence.jpeg)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=warunasrinath&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=warunasrinath&theme=tokyonight" alt="GitHub streak"/>
+</p>
 
+---
 
-
-
-
-
-
-
-
-warunasrinath.github.io/me
