@@ -103,4 +103,6 @@ I am passionate about **Financial AI** and **Medical AI**, where technology meet
 ---
 
 ## 🌍 Portfolio
-🔗 [portfolio.github.io](https://warunasrinath.github.io)
+<p align="center">
+  <a href="https://warunasrinath.github.io" target="_blank">Visit My Portfolio</a>
+</p>
