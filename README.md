@@ -1,12 +1,11 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Waruna Srinath</h1>
-<h3 align="center">🚀 AI R&D Engineer | Data Scientist | Innovating with AI & Data</h3>
+<h1 align="center">👋 Hi, I'm an AI R&D Engineer & Data Scientist</h1>
+<h3 align="center">🚀 Innovating with AI & Data</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=warunasrinath&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/waruna-srinath"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:warunasrinath@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://wa.me/94787073586"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 ---
@@ -14,7 +13,6 @@
 ## 💡 How I Add Value ?
 I bridge the gap between **Feasibility Analysis** 🧐, **Business Intelligence** 📊, and **Cutting-edge AI Solutions** 🤖.  
 By transforming raw data 📈 into **actionable insights 💡**, I deliver AI solutions that are **business-driven, scalable, and innovative**.
-
 
 ---
 
@@ -105,4 +103,4 @@ I am passionate about **Financial AI** and **Medical AI**, where technology meet
 ---
 
 ## 🌍 Portfolio
-🔗 [warunasrinath.github.io/me](https://warunasrinath.github.io/me)  
+🔗 [portfolio.github.io](https://warunasrinath.github.io)
