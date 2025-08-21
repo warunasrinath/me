@@ -93,9 +93,5 @@ Provider: LinkedIn Learning
 
 ![artificial General intelligence](https://github.com/warunasrinath/me/assets/56961480/b00d304d-85a8-4d31-9b7c-7aead5801956)
 
-![Generative AI Projects are loading](/assets/img/artificial intelligence.jpeg)
-
-
-
 
 warunasrinath.github.io/me
