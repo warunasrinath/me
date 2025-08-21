@@ -66,15 +66,9 @@ points, eliminating the need for manual adjustment of the light.
 6. Automated Content Summarization and Keyword Extraction for News Aggregation
 7. Q & A LLM system for common diseases [On going](waiting)
 
-## 💼 Machine Learning Engineer: 
-
-Embark on a data-driven journey with me: – a seasoned ML Engineer adept at algorithm fine-tuning and impactful data visualization. Thriving in collaborative environments, I excel in data collection, web scraping, and intricate analysis. Recognizing the significance of feature scaling, I bring strategic depth to model development.
-
-My best priority is ensuring the creation of the most accurate, optimized, scalable, and secure ML models, ready for industry-level release. With a commitment to precision, collaboration, and delivering impactful results, join me in unlocking the full potential of data science. Let's set new standards for accuracy and excellence in the industry together. 🚀
-
 ## 🛠️ TECHNICAL SKILLS:
 
-1. Languages & Web Frameworks: Python, Java, Flask, J2EE
+1. Languages & Web Frameworks: Python, Java, R, Flask, J2EE
 2. ML Lib: Numpy, Pandas, Scipy, Scikit-Learn, TensorFlow, PyTorch, Keras, NLTK, Matplotlib, Seaborn
 3. Statistics/ML: Statistic Analysis, Linear/Logistic Regression, Clustering, Graph Theory, DMPNN
 4. Tools: Anaconda Navigator, Jupyter Notebook, VS Code, Spyder, Hadoop, MapReduce, Apache Spark
