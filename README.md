@@ -1,6 +1,6 @@
 # AI R&D Engineer | Data Scientist | Innovating with AI & Data 👨‍🎓
 
-#### 🚀  Machine Learning | NLP | LLM | BIG DATA | Data Analysis & Visualization | Database & Cloud (AWS, Azure) | Statistics 🌐
+#### Machine Learning | LLM | BIG DATA | Data Analysis & Visualization | Database & Cloud (AWS, Azure) | Statistics 🌐
 
 ## 🚨 How I Add Value? :- 
 Bridging the gap between **Feasibility Analysis** 🧐, **Business Intelligence** 📊, and cutting-edge **AI solutions** **🤖—all in one profile.**
@@ -55,15 +55,6 @@ vision engineers to develop a project initiated by a senior consultant.
 points, eliminating the need for manual adjustment of the light.
 
 ![Machine Learning Waruna Srinath](https://github.com/warunasrinath/me/assets/56961480/385ee23c-3607-448b-b996-2991199845fd)
-
-**Final Year Research 👨🏻‍💻 and Thesis 🧾**
-***- ML Model that can predict the infection probability level of gastritis***
-  
-Data Cleaning and Feature Engineering:- Conducted data cleaning and feature engineering steps using the dataset from the "National Library of Medicine"
-to enhance the quality of data. 
-Then utilized the Random Forest algorithm to develop a data-driven healthcare model for gastritis risk assessment, integrating it with Docker Container, GitHub, and Heroku Cloud Deployment.
-
-![Model Rich picture](https://github.com/warunasrinath/me/assets/56961480/c7d6ce06-90bc-4ad4-8c7d-80b14c8dffa8)
 
 ## 🌐 PROFESSIONAL PROJECTS EXPERIENCE:
   
