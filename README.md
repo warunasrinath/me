@@ -88,9 +88,12 @@ I am passionate about **Financial AI** and **Medical AI**, where technology meet
 ---
 
 ## 🏆 Certifications
+- 🎖 **Advanced Statistics and Data Mining for Data Science** — *Packt*
+- 🎖 **Machine Learning In The Cloud With Azure Machine Learning** — *Packt*
+- 🎖 **IFS Cloud Release Overview**  
 - 🎖 **Machine Learning Foundations: Calculus** — *LinkedIn Learning*  
 - 🎖 **TensorFlow: Neural Networks & Working with Tables** — *LinkedIn Learning*  
-- 🎖 **Statistics Foundations 4: Advanced Topics** — *LinkedIn Learning*
+- 🎖 **Statistics Foundations 4: Advanced Topics** — *LinkedIn Learning* 
 
 ---
 
@@ -102,7 +105,3 @@ I am passionate about **Financial AI** and **Medical AI**, where technology meet
 
 ---
 
-## 🌍 Portfolio
-<p align="center">
-  <a href="https://warunasrinath.github.io" target="_blank">Visit My Portfolio</a>
-</p>
