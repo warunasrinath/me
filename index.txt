@@ -2,9 +2,9 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Waruna Srinath
+Waruna Srinath
+AI R&D Engineer | Data Scientist | Innovating with AI & Data 👨‍🎓
 
 Show Contacts
 
