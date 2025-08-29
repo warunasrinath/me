@@ -1099,50 +1099,53 @@
       <!--
         - #CONTACT
       -->
+<!--
+  - #CONTACT
+-->
 
-      <article class="contact" data-page="contact">
+<article class="contact" data-page="contact">
 
-        <header>
-          <h2 class="h2 article-title">Contact</h2>
-        </header>
+  <header>
+    <h2 class="h2 article-title">Contact</h2>
+  </header>
 
-        <section class="mapbox" data-mapbox>
-  <figure>
-    <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.934907635634!2d79.95229011475442!3d6.927078294405865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2590a49ba37ab%3A0x1c1b62737e44ff57!2sColombo%2C%20Sri%20Lanka!5e0!3m2!1sen!2sus!4v1647609017012!5m2!1sen!2sus"
-      width="400" height="300" loading="lazy"></iframe>
-  </figure>
-</section>
+  <section class="mapbox" data-mapbox>
+    <figure>
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.934907635634!2d79.95229011475442!3d6.927078294405865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2590a49ba37ab%3A0x1c1b62737e44ff57!2sColombo%2C%20Sri%20Lanka!5e0!3m2!1sen!2sus!4v1647609017012!5m2!1sen!2sus"
+        width="400" height="300" loading="lazy"></iframe>
+    </figure>
+  </section>
 
+  <section class="contact-form">
 
-        <section class="contact-form">
+    <h3 class="h3 form-title">Contact Form</h3>
 
-          <h3 class="h3 form-title">Contact Form</h3>
+    <form action="https://wa.me/+94787073586?text=Hello!%20I%20have%20a%20message%20for%20you.%20%0AFull%20Name:%20" class="form" method="get" target="_blank">
 
-          <form action="#" class="form" data-form>
+      <div class="input-wrapper">
+        <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
 
-            <div class="input-wrapper">
-              <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
+        <input type="text" name="email" class="form-input" placeholder="WhatsApp number (Optional)" data-form-input>
+      </div>
 
-              <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input>
-            </div>
+      <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
 
-            <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
+      <button class="form-btn" type="submit">
+        <ion-icon name="paper-plane"></ion-icon>
+        <span>Send Message</span>
+      </button>
 
-            <button class="form-btn" type="submit" disabled data-form-btn>
-              <ion-icon name="paper-plane"></ion-icon>
-              <span>Send Message</span>
-            </button>
+    </form>
 
-          </form>
+  </section>
 
-        </section>
+</article>
 
-      </article>
+</div>
 
-    </div>
+</main>
 
-  </main>
 
 
 
