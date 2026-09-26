@@ -1061,7 +1061,16 @@ main {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: top;
   transition: var(--transition-1);
+}
+
+/* show the whole banner (no cropping) for images much wider than 3:2 */
+.blog-banner-box.contain { background: var(--smoky-black); }
+
+.blog-banner-box.contain img {
+  object-fit: contain;
+  object-position: center;
 }
 
 .blog-post-item > a:hover .blog-banner-box img { transform: scale(1.05); }

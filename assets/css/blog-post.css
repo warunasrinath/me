@@ -77,13 +77,20 @@ article.post-page {
   margin-bottom: 28px;
 }
 
+/* shown at its natural size, never taller than 600px, whatever its shape */
 .post-cover {
+  width: fit-content;
+  max-width: 100%;
+  margin: 0 auto 36px;
   border-radius: 14px;
   overflow: hidden;
-  margin-bottom: 36px;
 }
 
-.post-cover img { width: 100%; height: auto; }
+.post-cover img {
+  width: auto;
+  max-width: 100%;
+  max-height: 600px;
+}
 
 
 
