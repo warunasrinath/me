@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>6 questions before anything gets built | Waruna Srinath</title>
+  <meta name="description"
+    content="Six questions to ask during requirement gathering before building any AI, ML or data science project — and why technically perfect systems still fail.">
+
+  <link rel="canonical" href="https://warunasrinath.github.io/me/blog/6-questions-before-anything-gets-built/">
+
+  <!--
+    - open graph (link previews on LinkedIn, X, WhatsApp)
+  -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="6 questions before anything gets built">
+  <meta property="og:description"
+    content="Most AI ideas die at question two or three. That is exactly what they are for.">
+  <meta property="og:image"
+    content="https://warunasrinath.github.io/me/blog/6-questions-before-anything-gets-built/cover.png">
+  <meta property="og:url" content="https://warunasrinath.github.io/me/blog/6-questions-before-anything-gets-built/">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="6 questions before anything gets built">
+  <meta name="twitter:description"
+    content="Most AI ideas die at question two or three. That is exactly what they are for.">
+  <meta name="twitter:image"
+    content="https://warunasrinath.github.io/me/blog/6-questions-before-anything-gets-built/cover.png">
+
+  <link rel="shortcut icon" href="../../assets/images/logo.png" type="image/x-icon">
+
+  <!--
+    - site css + shared blog post css
+  -->
+  <link rel="stylesheet" href="../../assets/css/style.css?v=2">
+  <link rel="stylesheet" href="../../assets/css/blog-post.css?v=2">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <!--
+    - top bar
+  -->
+
+  <header class="post-topbar">
+    <a href="../../index.html#blog" class="post-back">
+      <ion-icon name="arrow-back-outline"></ion-icon>
+      <span>Back to Blog</span>
+    </a>
+  </header>
+
+  <article class="post-page">
+
+    <header class="post-header">
+
+      <h1 class="post-title">6 questions before anything gets built</h1>
+
+      <p class="post-lead">Most AI ideas die at question two or three. That is exactly what they are for.</p>
+
+      <p class="post-byline">Waruna Srinath</p>
+
+    </header>
+
+    <figure class="post-cover">
+      <img src="./cover.png"
+        alt="6 questions before anything gets built: what problem are we solving, where is the time going, does the information already exist, does AI beat the simpler fix, who owns this after launch, how will we know it worked">
+    </figure>
+
+    <!--
+      - ARTICLE CONTENT
+    -->
+
+    <div class="post-body">
+
+      <h2>The model worked. That was the problem.</h2>
+
+      <p>There is a particular kind of silence in a room when you demonstrate something that works perfectly and nobody
+        cares.</p>
+
+      <p>I have been in that room.</p>
+
+      <p>The system did what we designed it to do. The metrics were good. The architecture held up under review. By
+        every measure an engineer is trained to care about, it was finished and it was correct.</p>
+
+      <p>And the people it had been built for looked at it politely and went back to doing their jobs the way they
+        always had.</p>
+
+      <p>Nothing was broken. That was what made it so difficult to diagnose. There was no bug to fix, no model to
+        retrain, no latency to shave. The technology had done its job completely. The project had still failed.</p>
+
+      <p>It took me a while to accept the actual lesson, because it wasn't a technical one. We had been given a request,
+        we had translated it faithfully into a system, and we had never stopped to ask whether the request itself was
+        the right one. The stakeholder described what they wanted. We built what they described. Neither of us checked
+        whether it was what they needed.</p>
+
+      <p>That gap — between the stated request and the real problem — is where most AI projects die. Not in the
+        modelling. Not in the infrastructure. In a conversation that happened weeks before anyone opened an editor.</p>
+
+      <h2>Why this happens more now, not less</h2>
+
+      <p>There is an uncomfortable irony in how capable these tools have become.</p>
+
+      <p>A few years ago, the hard part of an ML project was genuinely the ML. Getting a model to perform was uncertain
+        enough that it absorbed all the attention, and rightly so. If it worked, that was the achievement.</p>
+
+      <p>That constraint has largely dissolved. Foundation models, mature libraries, managed infrastructure — the
+        technical floor has risen so far that "can we build it" is rarely the binding question any more. Most things
+        you're asked for, you can build.</p>
+
+      <p>Which means the risk has moved. It has shifted upstream, into the part of the project that feels administrative
+        and gets the least rigour: requirement gathering.</p>
+
+      <p>We treat that stage as note-taking. Meet the stakeholder, capture what they want, convert it into a
+        specification, begin. But a requirement is not a fact you collect. It is a hypothesis you test. And when you
+        skip the testing, every downstream decision — your data strategy, your architecture, your evaluation criteria —
+        inherits an error nobody will notice until the system is finished and quietly ignored.</p>
+
+      <p>So I stopped treating that conversation as a formality and started treating it as the most technical part of
+        the project. These six questions are what came out of that.</p>
+
+      <h2>1. What problem are we actually solving?</h2>
+
+      <p>The first answer is almost never the real one.</p>
+
+      <p>Ask a stakeholder what they want and you'll usually get a solution: a chatbot, a dashboard, a recommendation
+        engine, a forecasting model. These are not problems. They are the shapes problems take after someone has already
+        decided how to solve them.</p>
+
+      <p>So push past it. What actually goes wrong in a normal week? What costs money, or time, or customers? What is
+        the thing people complain about that nobody has fixed?</p>
+
+      <p>The answers change substantially. "We want a chatbot" becomes "the same twelve questions get asked every day
+        and answering them consumes our most experienced person." Those sound similar. They are not. The first
+        constrains you to one solution before you have understood anything. The second leaves the solution open — and
+        one of the available solutions is a well-placed FAQ page that costs nothing.</p>
+
+      <blockquote>
+        <p>If you cannot state the problem without naming a technology, you don't have a problem yet. You have a
+          purchase someone is looking for a reason to make.</p>
+      </blockquote>
+
+      <h2>2. Where is the time actually going?</h2>
+
+      <p>Once there's a real problem, map the process. Not the organisational chart — not who reports to whom — but the
+        actual sequence of what happens, step by step, in order.</p>
+
+      <p>This is tedious and people resist it. Do it anyway, because the answer is usually not where anyone expects.</p>
+
+      <p>Take a typical inbound request. Someone receives it. They read it and work out what it concerns. They go
+        looking for the relevant information — a document, a spreadsheet, an older thread, or a colleague who happens to
+        know. They compose a response. Sometimes they update the record afterwards; sometimes they forget.</p>
+
+      <p>Now ask where the minutes actually accumulate. Almost never in composing the response. Overwhelmingly in the
+        search — the step that appears nowhere in any process diagram because nobody thinks of looking for something as
+        <em>work</em>.
+      </p>
+
+      <p>Teams instinctively automate the visible step, because it's the one that has a name. The expensive step is
+        usually the invisible one.</p>
+
+      <blockquote>
+        <p>Can you describe the process as a sequence of concrete actions, and point to the single step where the time
+          concentrates? If not, you are not ready to design anything.</p>
+      </blockquote>
+
+      <h2>3. Does the information already exist?</h2>
+
+      <p>This question kills more projects than any other, and it kills them early, which is exactly what you want.</p>
+
+      <p>An AI system cannot tell you something the organisation never recorded. That sounds obvious stated plainly. It
+        is routinely ignored in practice, because from the outside these systems look like they simply <em>know</em>
+        things.</p>
+
+      <p>So look at the actual material. Not a curated sample — the real state of it. In most organisations you will
+        find some combination of:</p>
+
+      <ul>
+        <li>Several versions of the same document, with no indication which is current</li>
+        <li>A policy that exists only inside an email thread</li>
+        <li>A price list in a spreadsheet that one person edits</li>
+        <li>A manual last revised two years ago</li>
+        <li>A substantial body of knowledge that lives entirely in the head of someone who has been there for a decade
+        </li>
+      </ul>
+
+      <p>Some of that is a week of cleanup. Some of it is a six-month documentation programme that has nothing to do
+        with AI at all.</p>
+
+      <p>Saying so is not a failure to deliver. It is the most valuable thing you can tell a stakeholder, because the
+        alternative is building a system that confidently automates misinformation.</p>
+
+      <blockquote>
+        <p>If the knowledge isn't written down anywhere, this is not an AI project yet. It is a documentation project
+          wearing an AI costume.</p>
+      </blockquote>
+
+      <h2>4. Does AI beat the simpler fix?</h2>
+
+      <p>This is the question almost nobody asks, and it is the one that saves the most money.</p>
+
+      <p>Not every inefficiency is a modelling problem. A great many are process problems that have simply never been
+        examined, and they have solutions that cost nothing.</p>
+
+      <p>Requests arriving through five different channels and occasionally getting missed doesn't need a model. It
+        needs one channel and a rule about who checks it. Inconsistent data entry doesn't need a classifier. It needs a
+        form with constrained fields. A report that takes a day to assemble every month might need a pipeline — or it
+        might need someone to ask whether anyone still reads it.</p>
+
+      <p>There is a real professional temptation here, and it's worth naming. We are more interesting to ourselves when
+        we build the sophisticated thing. Recommending the boring fix feels like leaving value on the table.</p>
+
+      <p>It is the opposite. A stakeholder who watches you talk them out of an unnecessary project will trust every
+        recommendation you make afterwards. That trust is worth more than the project.</p>
+
+      <blockquote>
+        <p>AI should be what you reach for when the simpler thing has already been tried and failed. Not before.</p>
+      </blockquote>
+
+      <h2>5. Who owns this after launch?</h2>
+
+      <p>Every system I have seen fail, failed here. Not during the build. Afterwards.</p>
+
+      <p>Once something is live, someone has to keep it true. When a price changes, the system has to change with it.
+        Someone has to actually verify that answers are still correct rather than assume it. Someone has to notice when
+        a source document is superseded.</p>
+
+      <p>So ask, before anything is built: who is that person, and does their manager know? If the honest answer is
+        "we'll sort that out later," the project has already failed — it just doesn't know it yet.</p>
+
+      <p>What makes this failure mode genuinely dangerous is how quiet it is. Nothing crashes. No error is logged. No
+        alert fires. The system keeps responding in exactly the same confident tone, drawing on information that stopped
+        being accurate months ago. It will not tell you it has become unreliable, because it has no way of knowing.</p>
+
+      <p>Usually nobody finds out until a customer is given the wrong answer.</p>
+
+      <blockquote>
+        <p>A system nobody owns is accurate on launch day and quietly wrong three months later.</p>
+      </blockquote>
+
+      <h2>6. How will we know it worked?</h2>
+
+      <p>Answer this before you build, not after. Once something is live, everyone will tell you it feels faster, and
+        you will have nothing to check that against — because nobody measured the before.</p>
+
+      <p>Choose metrics that resist comfortable interpretation:</p>
+
+      <h3>Behavioural measures over reported ones</h3>
+
+      <p>Not "do you find it useful" but "how often do people still bypass it and ask a colleague." People vote with
+        their behaviour. If they're still walking over to someone's desk, it failed, regardless of what the dashboard
+        says.</p>
+
+      <h3>Correctness, sampled continuously</h3>
+
+      <p>This is your early warning for the decay described in question five.</p>
+
+      <h3>Second-order effects, which are often the real prize</h3>
+
+      <p>The most valuable outcome I have seen from this kind of system was not the workflow it was built for. It was
+        that new employees became independent in weeks rather than months — a benefit nobody requested, nobody measured,
+        and which turned out to be worth more than the original objective. You only find things like that if you go
+        looking.</p>
+
+      <blockquote>
+        <p>If you cannot name the specific number that should move, you are not building a solution. You are building a
+          demo.</p>
+      </blockquote>
+
+      <h2>What the six questions are actually for</h2>
+
+      <p>They are not a checklist to be completed. They are a filter, and the filter is supposed to catch things.</p>
+
+      <p>Most ideas die at question two or three. That is the point. An idea killed in a meeting costs an hour. The same
+        idea killed after six months of engineering costs a team's quarter, a stakeholder's confidence, and — in my
+        experience — a fair amount of the organisation's appetite for trying again.</p>
+
+      <p>The projects that survive all six tend to share a shape: a specific problem, a process someone has actually
+        traced, data that genuinely exists, a solution proportionate to the problem, a named owner, and a number that
+        will move. That isn't a guarantee. It is roughly the best you can do before the first commit.</p>
+
+      <p>And the version of me standing in that quiet room, with a system that worked perfectly and helped no one, would
+        have caught it at question one.</p>
+
+      <p>Technology is rarely the hard part any more. Deciding what is worth building is.</p>
+
+      <hr>
+
+      <p><em>I work at the intersection of AI, automation, analytics and digital transformation — mostly on the question
+          of where technology genuinely creates value, and where it doesn't. If you're weighing up a project and want a
+          second opinion on it, I'm glad to talk.</em></p>
+
+    </div>
+
+    <footer class="post-footer">
+      <a href="../../index.html#blog" class="post-back">
+        <ion-icon name="arrow-back-outline"></ion-icon>
+        <span>More articles</span>
+      </a>
+    </footer>
+
+  </article>
+
+  <!--
+    - ionicon link
+  -->
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>

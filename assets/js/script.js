@@ -140,20 +140,31 @@ for (let i = 0; i < formInputs.length; i++) {
 const navigationLinks = document.querySelectorAll("[data-nav-link]");
 const pages = document.querySelectorAll("[data-page]");
 
+// show a page by name; links and pages are matched by name, not by position
+const showPage = function (pageName) {
+
+  for (let i = 0; i < pages.length; i++) {
+    pages[i].classList.toggle("active", pages[i].dataset.page === pageName);
+  }
+
+  for (let i = 0; i < navigationLinks.length; i++) {
+    navigationLinks[i].classList.toggle("active", navigationLinks[i].innerText.trim().toLowerCase() === pageName);
+  }
+
+}
+
 // add event to all nav link
 for (let i = 0; i < navigationLinks.length; i++) {
   navigationLinks[i].addEventListener("click", function () {
 
-    for (let i = 0; i < pages.length; i++) {
-      if (this.innerHTML.toLowerCase() === pages[i].dataset.page) {
-        pages[i].classList.add("active");
-        navigationLinks[i].classList.add("active");
-        window.scrollTo(0, 0);
-      } else {
-        pages[i].classList.remove("active");
-        navigationLinks[i].classList.remove("active");
-      }
-    }
+    const pageName = this.innerText.trim().toLowerCase();
+    showPage(pageName);
+    history.replaceState(null, "", "#" + pageName);
+    window.scrollTo(0, 0);
 
   });
 }
+
+// open the page named in the URL hash (e.g. index.html#blog from a blog post)
+const hashPage = window.location.hash.slice(1).toLowerCase();
+if (document.querySelector(`[data-page="${hashPage}"]`)) showPage(hashPage);

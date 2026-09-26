@@ -15,7 +15,7 @@
   <!--
     - custom css link
   -->
-  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="stylesheet" href="./assets/css/style.css?v=2">
 
   <!--
     - google font link
@@ -177,11 +177,11 @@
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" data-nav-link>Portfolio</button>
+            <button class="navbar-link" data-nav-link>Blog</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" data-nav-link>Blog</button>
+            <button class="navbar-link" data-nav-link>Portfolio</button>
           </li>
 
           <li class="navbar-item">
@@ -678,6 +678,53 @@
 
 
       <!--
+        - #BLOG
+        - each post lives in its own folder: ./blog/<post-slug>/ (index.html + images)
+      -->
+
+      <article class="blog" data-page="blog">
+
+        <header>
+          <h2 class="h2 article-title">Blog</h2>
+        </header>
+
+        <section class="blog-posts">
+
+          <ul class="blog-posts-list">
+
+            <li class="blog-post-item">
+              <a href="./blog/6-questions-before-anything-gets-built/">
+
+                <figure class="blog-banner-box">
+                  <img src="./blog/6-questions-before-anything-gets-built/cover.png"
+                    alt="6 questions before anything gets built" loading="lazy">
+                </figure>
+
+                <div class="blog-content">
+
+                  <h3 class="h3 blog-item-title">6 questions before anything gets built</h3>
+
+                  <p class="blog-text">
+                    Most AI ideas die at question two or three. That is exactly what they are for. Six questions to
+                    ask during requirement gathering, and why technically perfect systems still fail.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+          </ul>
+
+        </section>
+
+      </article>
+
+
+
+
+
+      <!--
         - #PORTFOLIO
       -->
 
@@ -917,193 +964,7 @@
 
 
 
-      <!--
-        - #BLOG
-      -->
 
-      <article class="blog" data-page="blog">
-
-  <header>
-    <h2 class="h2 article-title">Blog</h2>
-  </header>
-
-  <section class="blog-posts">
-
-    <ul class="blog-posts-list">
-
-      <li class="blog-post-item">
-        <a href="#">
-
-          <figure class="blog-banner-box">
-            <img src="./assets/images/blog-1.jpg" alt="Design conferences in 2022" loading="lazy">
-          </figure>
-
-          <div class="blog-content">
-
-            <div class="blog-meta">
-              <p class="blog-category">Design</p>
-
-              <span class="dot"></span>
-
-              <time datetime="2022-02-23">Fab 23, 2022</time>
-            </div>
-
-            <h3 class="h3 blog-item-title">Ongoing dev</h3>
-
-            <p class="blog-text">
-              Ongoing dev.
-            </p>
-
-          </div>
-
-        </a>
-      </li>
-
-      <li class="blog-post-item">
-        <a href="#">
-
-          <figure class="blog-banner-box">
-            <img src="./assets/images/blog-2.jpg" alt="Best fonts every designer" loading="lazy">
-          </figure>
-
-          <div class="blog-content">
-
-            <div class="blog-meta">
-              <p class="blog-category">Design</p>
-
-              <span class="dot"></span>
-
-              <time datetime="2022-02-23">Fab 23, 2022</time>
-            </div>
-
-            <h3 class="h3 blog-item-title">Ongoing dev</h3>
-
-            <p class="blog-text">
-              Ongoing dev.
-            </p>
-
-          </div>
-
-        </a>
-      </li>
-
-      <li class="blog-post-item">
-        <a href="#">
-
-          <figure class="blog-banner-box">
-            <img src="./assets/images/blog-3.jpg" alt="Design digest #80" loading="lazy">
-          </figure>
-
-          <div class="blog-content">
-
-            <div class="blog-meta">
-              <p class="blog-category">Design</p>
-
-              <span class="dot"></span>
-
-              <time datetime="2022-02-23">Fab 23, 2022</time>
-            </div>
-
-            <h3 class="h3 blog-item-title">Ongoing dev</h3>
-
-            <p class="blog-text">
-              Ongoing dev.
-            </p>
-
-          </div>
-
-        </a>
-      </li>
-
-      <li class="blog-post-item">
-        <a href="#">
-
-          <figure class="blog-banner-box">
-            <img src="./assets/images/blog-4.jpg" alt="UI interactions of the week" loading="lazy">
-          </figure>
-
-          <div class="blog-content">
-
-            <div class="blog-meta">
-              <p class="blog-category">Design</p>
-
-              <span class="dot"></span>
-
-              <time datetime="2022-02-23">Fab 23, 2022</time>
-            </div>
-
-            <h3 class="h3 blog-item-title">Ongoing dev</h3>
-
-            <p class="blog-text">
-              Ongoing dev.
-            </p>
-
-          </div>
-
-        </a>
-      </li>
-
-      <li class="blog-post-item">
-        <a href="#">
-
-          <figure class="blog-banner-box">
-            <img src="./assets/images/blog-5.jpg" alt="The forgotten art of spacing" loading="lazy">
-          </figure>
-
-          <div class="blog-content">
-
-            <div class="blog-meta">
-              <p class="blog-category">Design</p>
-
-              <span class="dot"></span>
-
-              <time datetime="2022-02-23">Fab 23, 2022</time>
-            </div>
-
-            <h3 class="h3 blog-item-title">Ongoing dev</h3>
-
-            <p class="blog-text">
-              Ongoing dev.
-            </p>
-
-          </div>
-
-        </a>
-      </li>
-
-      <li class="blog-post-item">
-        <a href="#">
-
-          <figure class="blog-banner-box">
-            <img src="./assets/images/blog-6.jpg" alt="Design digest #79" loading="lazy">
-          </figure>
-
-          <div class="blog-content">
-
-            <div class="blog-meta">
-              <p class="blog-category">Design</p>
-
-              <span class="dot"></span>
-
-              <time datetime="2022-02-23">Fab 23, 2022</time>
-            </div>
-
-            <h3 class="h3 blog-item-title">Ongoing dev</h3>
-
-            <p class="blog-text">
-              Ongoing dev.
-            </p>
-
-          </div>
-
-        </a>
-      </li>
-
-    </ul>
-
-  </section>
-
-</article>
 
 
 
@@ -1169,7 +1030,7 @@
   <!--
     - custom js link
   -->
-  <script src="./assets/js/script.js"></script>
+  <script src="./assets/js/script.js?v=2"></script>
 
   <!--
     - ionicon link

@@ -1,0 +1,183 @@
+/*-----------------------------------*\
+  #blog-post.css
+  shared styles for pages in ./blog/<post-slug>/index.html
+  loaded after style.css, so it reuses its custom properties
+\*-----------------------------------*/
+
+:root {
+  --post-width: 860px;          /* reading column width */
+  --post-text: hsl(0, 0%, 82%);
+  --post-muted: hsl(0, 0%, 60%);
+}
+
+
+
+/*-----------------------------------*\
+  #TOP BAR
+\*-----------------------------------*/
+
+.post-topbar {
+  position: sticky;
+  top: 0;
+  padding: 14px 20px;
+  background: hsla(0, 0%, 7%, 0.9);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--jet);
+  z-index: 10;
+}
+
+.post-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--post-muted);
+  font-size: var(--fs-6);
+  transition: var(--transition-1);
+}
+
+.post-back:hover { color: var(--orange-yellow-crayola); }
+
+
+
+/*-----------------------------------*\
+  #ARTICLE
+\*-----------------------------------*/
+
+/* style.css hides every <article> except the active portfolio tab */
+article.post-page {
+  display: block;
+  max-width: calc(var(--post-width) + 40px);
+  margin: 0 auto;
+  padding: 36px 20px 60px;
+  background: none;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.post-title {
+  color: var(--white-2);
+  font-size: 30px;
+  font-weight: var(--fw-600);
+  line-height: 1.25;
+  margin-bottom: 14px;
+}
+
+.post-lead {
+  color: var(--post-muted);
+  font-size: var(--fs-2);
+  line-height: 1.6;
+  margin-bottom: 14px;
+}
+
+.post-byline {
+  color: var(--orange-yellow-crayola);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-500);
+  margin-bottom: 28px;
+}
+
+.post-cover {
+  border-radius: 14px;
+  overflow: hidden;
+  margin-bottom: 36px;
+}
+
+.post-cover img { width: 100%; height: auto; }
+
+
+
+/*-----------------------------------*\
+  #BODY TEXT
+\*-----------------------------------*/
+
+.post-body {
+  color: var(--post-text);
+  font-size: 17px;
+  line-height: 1.85;
+}
+
+.post-body p { margin-bottom: 1.3em; }
+
+.post-body em { font-style: italic; }
+
+.post-body strong { color: var(--white-2); font-weight: var(--fw-600); }
+
+.post-body a {
+  display: inline;
+  color: var(--orange-yellow-crayola);
+  text-decoration: underline;
+}
+
+.post-body h2 {
+  color: var(--white-2);
+  font-size: 23px;
+  font-weight: var(--fw-600);
+  line-height: 1.35;
+  margin: 2em 0 0.7em;
+}
+
+.post-body h3 {
+  color: var(--white-2);
+  font-size: var(--fs-2);
+  font-weight: var(--fw-500);
+  line-height: 1.4;
+  margin: 1.6em 0 0.4em;
+}
+
+.post-body ul, .post-body ol {
+  margin: 0 0 1.3em;
+  padding-left: 1.4em;
+}
+
+.post-body ul { list-style: disc; }
+.post-body ol { list-style: decimal; }
+.post-body li { list-style: inherit; } /* style.css resets li to none */
+.post-body li + li { margin-top: 0.4em; }
+
+.post-body blockquote {
+  margin: 1.6em 0;
+  padding-left: 18px;
+  border-left: 3px solid var(--orange-yellow-crayola);
+  color: var(--white-2);
+  font-style: italic;
+}
+
+.post-body blockquote p { margin: 0; }
+
+.post-body hr {
+  border: none;
+  height: 1px;
+  background: var(--jet);
+  margin: 2.4em 0;
+}
+
+.post-body img { border-radius: 12px; }
+
+.post-footer {
+  margin-top: 40px;
+  padding-top: 24px;
+  border-top: 1px solid var(--jet);
+}
+
+
+
+/*-----------------------------------*\
+  #RESPONSIVE
+\*-----------------------------------*/
+
+@media (min-width: 768px) {
+
+  .post-topbar { padding: 16px 40px; }
+
+  article.post-page { padding-top: 60px; }
+
+  .post-title { font-size: 42px; }
+
+  .post-lead { font-size: 20px; }
+
+  .post-body { font-size: 18px; }
+
+  .post-body h2 { font-size: 26px; }
+
+}
